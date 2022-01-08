@@ -8,4 +8,9 @@ Using the dataset that consist historic information of houses sold between 2014 
 3. Build the model
 4. Price prediction
 
-## Files structure:
+## Deliverables:
+- Dataset used in the project
+- SQL exploration
+- Tableau exploration
+- Presentation
+- Final notebook: "real_estate_regression_project"
